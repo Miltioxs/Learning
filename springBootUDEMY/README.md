@@ -12,15 +12,15 @@
 
 
 ## Lo que voy a aprender 
--Spring Boot
--spring IoC
--spring MVC 
--Vistas Thymeleaf
+- Spring Boot
+- Spring IoC
+- Spring MVC 
+- Vistas Thymeleaf
 
 ## Herramientas necesarias
--JDK (Java SE Development Kit)
--Eclipse + Spring Tools Plugin https://spring.io/tools
--Maven
--Mysql
+- JDK (Java SE Development Kit)
+- Eclipse + Spring Tools Plugin https://spring.io/tools
+- Maven
+- Mysql
 
 
